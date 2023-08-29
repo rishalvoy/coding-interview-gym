@@ -76,7 +76,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 
 ## My leetcode account
 
-- [ParthoBiswas007](https://leetcode.com/ParthoBiswas007/)
+- [Vishal Kumar Roy](https://leetcode.com/rishalvoy/)
 
 ## Tips
 
