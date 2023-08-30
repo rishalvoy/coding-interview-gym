@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <a href="https://github.com/partho-maple/coding-interview-gym/archive/master.zip"><img src="leetcode.png"></a>
-  <a href="https://github.com/partho-maple/coding-interview-gym/archive/master.zip"><img src="algoexpert.png"></a>
+  <a href="https://github.com/rishalvoy/coding-interview-gym/archive/master.zip"><img src="educative.png"></a>
 </h1>
 
 [![GitHub last commit][last-commit-shield]][last-commit-url]
